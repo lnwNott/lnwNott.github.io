@@ -3,4 +3,4 @@
 ## ศึกษาที่มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตศรีราชา
 ![Mypic](./img/pic.jpeg)
 <br>
-[business_continuity](business-continuity.md)
+[business-continuity](business-continuity.md)
