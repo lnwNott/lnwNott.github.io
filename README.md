@@ -5,4 +5,6 @@
 <br>
 [business-continuity](business-continuity.md)
 
+[Christmas and New Year 2025](e-card.md)
+
 [Accuracy](accuracy.md)
