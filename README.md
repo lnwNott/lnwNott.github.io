@@ -4,3 +4,5 @@
 ![Mypic](./img/pic.jpeg)
 <br>
 [business-continuity](business-continuity.md)
+
+[Accuracy](accuracy.md)
