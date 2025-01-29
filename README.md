@@ -9,4 +9,4 @@
 
 [Accuracy](accuracy.md)
 
-[Boardgame](boardgame.m)
+[Boardgame](boardgame.md)
