@@ -19,3 +19,5 @@
 [Rattanapong Muangkrathok](https://rattanapong7.github.io/boardgame)
 
 [Pongpipat Kumchoo](https://6530200711.github.io/Boardgame)
+
+[Watcharakorn Rassameedit](https://bestwatchara.github.io/boardgame)
