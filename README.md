@@ -10,3 +10,5 @@
 [Accuracy](accuracy.md)
 
 [Boardgame](boardgame.md)
+
+[Security Control](security-control.md)
