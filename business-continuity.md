@@ -11,11 +11,6 @@ Actions, processes, and tools for ensuring an organization can continue critical
 
 ---
 
-## GEMINI
-การบริหารความต่อเนื่องทางธุรกิจ (Business Continuity Management: BCM) คือ กระบวนการวางแผนและเตรียมความพร้อมขององค์กรเพื่อรับมือกับเหตุการณ์ที่ไม่คาดคิด ซึ่งอาจส่งผลกระทบต่อการดำเนินงานของธุรกิจ เช่น ภัยธรรมชาติ การโจมตีทางไซเบอร์ หรือปัญหาภายในองค์กรเอง เป้าหมายหลักของ BCM คือ การลดผลกระทบที่เกิดขึ้นจากเหตุการณ์เหล่านี้ให้น้อยที่สุด และทำให้ธุรกิจสามารถกลับมาดำเนินงานได้อย่างรวดเร็ว
-
----
-
 ## NIST
 Business Continuity (BC) refers to the capability of an organization to continue the delivery of products or services at acceptable predefined levels following a disruptive incident.
 
